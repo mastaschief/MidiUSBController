@@ -1,0 +1,3 @@
+Button KEYWORD1
+getState KEYWORD2
+getPressedTime KEYWORD2
